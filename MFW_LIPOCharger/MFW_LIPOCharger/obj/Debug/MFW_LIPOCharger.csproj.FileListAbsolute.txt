@@ -1,0 +1,199 @@
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.resources
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.tinyresources
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyResGen.cache
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.exe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.exe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdb
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdb
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.exe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.pdb
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.dll
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.dll
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.dll
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.xml
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.xml
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.xml
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.exe
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.resources
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csproj.GenerateResource.Cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.tinyresources
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyResGen.cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.pdb
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.resources
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.tinyresources
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyResGen.cache
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.exe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.pdb
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.exe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.exe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdb
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdb
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.exe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.pdb
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.dll
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.dll
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.dll
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.xml
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.xml
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.xml
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pe
+C:\Users\Admin\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\Embedded\SW_Cloud\MicroFramework\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Glide.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Hardware.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Pins.dll
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Glide.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Hardware.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\bin\Debug\GHI.Pins.xml
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.resources
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csproj.GenerateResource.Cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.tinyresources
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\TinyResGen.cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pdbx
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.exe
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger (2)\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.pdb
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csprojResolveAssemblyReference.cache
+C:\Users\smunaretto\Desktop\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyCLR_DebugReferences.cache
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.exe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.exe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdb
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdb
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.exe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\MFW_LIPOCharger.pdb
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\le\MFW_LIPOCharger.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\be\MFW_LIPOCharger.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Glide.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Hardware.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\LE\GHI.Pins.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Glide.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Hardware.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\BE\GHI.Pins.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.dll
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.dll
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.dll
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Glide.xml
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Hardware.xml
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\bin\Debug\GHI.Pins.xml
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyCLR_DebugReferences.cache
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.resources
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csproj.GenerateResource.Cache
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.Resources.tinyresources
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\TinyResGen.cache
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\be\MFW_LIPOCharger.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\le\MFW_LIPOCharger.pdbx
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.exe
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.pdb
+\\UBUNTU\Public\MFW_LIPOCharger\MFW_LIPOCharger\obj\Debug\MFW_LIPOCharger.csprojResolveAssemblyReference.cache
